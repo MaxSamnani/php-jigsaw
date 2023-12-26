@@ -2,7 +2,7 @@
 
 return [
     'production' => true,
-    'baseUrl' => 'localhost:9091/build_production/',
+    'baseUrl' => 'localhost:8000',
     'title' => 'ITRetina',
     'year' => '2023',
     'description' => 'Website description.',
